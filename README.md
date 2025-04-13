@@ -14,3 +14,14 @@ To leverage Power BI for delivering actionable insights into Adidas' sales perfo
 
 - Dashboard Interaction <a href="https://github.com/SelvaTharsan/PowerBI-Data-Analysis-Dashboard/blob/main/Adidas.JPG"> View Dashboard </a>
 
+## Process
+- Import and clean Adidas sales data using Power Query.  
+- Create relationships  and build DAX measures for KPIs like total sales and profit.  
+- Design visuals including area charts, bar charts, donut charts, and filled maps.  
+- Add slicers for filtering by date, region, product, and retailer.  
+- Format and publish the dashboard with clear insights for strategic decisions.
+
+## Dashboard
+![Adidas](https://github.com/user-attachments/assets/bdcb07ce-cb60-4935-9fa2-01ee96c7cf22)
+
+
