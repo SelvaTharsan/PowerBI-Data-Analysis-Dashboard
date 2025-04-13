@@ -24,4 +24,17 @@ To leverage Power BI for delivering actionable insights into Adidas' sales perfo
 ## Dashboard
 ![Adidas](https://github.com/user-attachments/assets/bdcb07ce-cb60-4935-9fa2-01ee96c7cf22)
 
+## Project Insight 
+- Identified top-performing regions and states with high sales potential.
+- Recognized best-selling products contributing most to revenue and profit.
+- Detected underperforming areas for targeted marketing and sales improvements.
+- Revealed peak sales periods, indicating seasonal demand patterns.
+- Analyzed retailer-wise performance, highlighting key sales partners.
+- Evaluated pricing and margin trends to optimize profitability.
+- Provided visibility into product-wise demand for better inventory planning.
+
+## Final Conclusion 
+The Power BI-driven analysis provided Adidas with valuable, data-driven insights into sales performance, customer demand, and regional opportunities. By leveraging these insights, Adidas can refine its inventory, pricing, and marketing strategies, ensuring better decision-making and improved profitability
+
+
 
